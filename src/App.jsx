@@ -357,7 +357,7 @@ function App() {
         <footer className="py-8 bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700">
           <div className="container mx-auto px-4 text-center">
             <p className="text-gray-600 dark:text-gray-300">
-              © {new Date().getFullYear()} nabowi. All rights reserved.
+              © {new Date().getFullYear()} Amit singh manral. All rights reserved.
             </p>
           </div>
         </footer>
